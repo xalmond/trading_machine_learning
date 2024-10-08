@@ -13,7 +13,11 @@ import seaborn as sns
 #cycle_list = [1,5,9,13,18,22,26,30,34,38,42,46,50,54,58]
 #dataset = dataset[(dataset['cycle'].isin(cycle_list))]
 
+<<<<<<< HEAD
 # Diagram
+=======
+# DIAGRAMA
+>>>>>>> master
 plt.figure(figsize=[45, 21])
 
 sns.set_theme(style="white", font="Segoe UI")
