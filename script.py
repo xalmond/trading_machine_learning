@@ -10,8 +10,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Filter Cycle
-# CYCLE_LIST = [1,5,9,13,18,22,26,30,34,38,42,46,50,54,58]
-# dataset = dataset[(dataset['cycle'].isin(CYCLE_LIST))]
+# cycle_list = [1,5,9,13,18,22,26,30,34,38,42,46,50,54,58]
+# dataset = dataset[(dataset['cycle'].isin(cycle_list))]
 
 # Diagram
 
